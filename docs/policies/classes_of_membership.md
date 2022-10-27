@@ -26,6 +26,14 @@ Defined at committee meeting 2018-01-09
 * Discounts on Artifactory run Events and workshops
 * For 24/7 access. A key bond equivalent to 3 months of membership is payable.
 
+* Eligibility: Adult persons.
+* Membership fee: \$75 / month or \$900 / year.
+* [Workshop usage fee](/docs/policies/fees): No fee.
+* [Tool usage fees](/docs/policies/fees): Discount rate.
+* Event and workshop fees: Discount rate.
+* [Rehearsal room usage fee](/docs/policies/fees): Standard rate.
+* 24/7 access: Yes. A key bond is payable, equivalent to three months worth of membership fees.
+
 ### Concession Membership
 
 Defined at committee meeting 2018-01-09
@@ -37,6 +45,9 @@ Defined at committee meeting 2018-01-09
 * Tool usage fees are payable on some tool use.
 * Discounts on Artifactory run Events and workshops
 * For 24/7 access. A key bond equivalent to 3 months of membership is payable.
+
+* [Workshop usage fee](/docs/policies/fees): No fee.
+* [Tool usage fees](/docs/policies/fees): Discount rate.
 
 ### Band Membership
 
@@ -63,6 +74,7 @@ Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by
 
 \* Quiet Bands are defined as not including an acoustic drum kit, a maximum of 2 guitars/amps, and a willingness to turn the volume down if requested. Again, please make yourselves known to any others using the Artifactory while you are rehearsing to make this a comfortable conversation if required.
 
+* [Tool usage fees](/docs/policies/fees): Standard rate.
 
 ## Classes of associate membership
 
