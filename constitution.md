@@ -699,7 +699,7 @@ The acts of a committee or subcommittee, or of a committee member or member of a
 * 58.4 If the question is whether or not to confirm the minutes of a previous general meeting, only members who were present at that meeting may vote.
 * 58.5 For a person to be eligible to vote at a general meeting as an ordinary member, they -
   * 58.5.a must have been an ordinary member at the time notice of the meeting was given under rule 53; and
-  * 58.5.b must have paid the membership fee for the period up to and including the date of the general meeting.
+  * 58.5.b must have paid the membership fee for the period up to and including the date of the general meeting; and
   * 58.5.c must not have any other overdue debts to the Association at the time of the general meeting.
 * 58.6 Debts of the following types are excluded for the purposes of rule 58.5.c -
   * 58.6.a Pledged donations to a donation drive.
