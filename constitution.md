@@ -700,6 +700,10 @@ The acts of a committee or subcommittee, or of a committee member or member of a
 * 58.5 For a person to be eligible to vote at a general meeting as an ordinary member, they
   * 58.5.a must have been an ordinary member at the time notice of the meeting was given under rule 53; and
   * 58.5.b must have paid any fee or other money payable to the Association by the member.
+* 58.6 Money payable in the following categories are excluded for the purposes of 58.5.b -
+  * 58.6.a As part of a donation drive
+  * 58.6.b As part of a bond
+  * 58.6.c Membership dues when the end of the previous membership period falls after the date of the scheduled general meeting. In the event that a meeting is adjourned to another day this clause will continue to use the original scheduled date for eligibility calculations.
 
 ### 59 When special resolutions are required
 
