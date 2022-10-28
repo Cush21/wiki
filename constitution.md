@@ -697,13 +697,12 @@ The acts of a committee or subcommittee, or of a committee member or member of a
 * 58.2 Except in the case of a special resolution, a motion is carried if a majority of the ordinary members present at a general meeting vote in favour of the motion.
 * 58.3 If votes are divided equally on a question, the chairperson of the meeting has a second or casting vote.
 * 58.4 If the question is whether or not to confirm the minutes of a previous general meeting, only members who were present at that meeting may vote.
-* 58.5 For a person to be eligible to vote at a general meeting as an ordinary member, they
+* 58.5 For a person to be eligible to vote at a general meeting as an ordinary member, they -
   * 58.5.a must have been an ordinary member at the time notice of the meeting was given under rule 53; and
-  * 58.5.b must have paid any fee or other money payable to the Association by the member.
-* 58.6 Money payable in the following categories are excluded for the purposes of 58.5.b -
-  * 58.6.a As part of a donation drive
-  * 58.6.b As part of a bond
-  * 58.6.c Membership dues when the end of the previous membership period falls after the date of the scheduled general meeting. In the event that a meeting is adjourned to another day this clause will continue to use the original scheduled date for eligibility calculations.
+  * 58.5.b must not have any overdue debts to the Association at the time of the general meeting.
+* 58.6 Debts of the following types are excluded for the purposes of rule 58.5.b -
+  * 58.6.a Pledged donations to a donation drive.
+* 58.7 If a general meeting is adjourned as per rule 57, only people who were eligible to vote at the first session of the meeting, will be eligible to vote when the meeting resumes.
 
 ### 59 When special resolutions are required
 
