@@ -408,6 +408,12 @@ The treasurer has the following duties —
 
 ## Division 3 — Election of committee members and tenure of office
 
+### XX Terms Used
+
+In this Division —
+
+* **written notice** explicitly includes direct messages sent via an online communication platform administered by the Association in addition to other forms of written notice.
+
 ### 32 How members become Committee members
 
 A member becomes a committee member if the member —
