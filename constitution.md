@@ -835,7 +835,13 @@ The record of committee members and other persons authorised to act on behalf of
 * **surplus property**, in relation to the Association, means property remaining after satisfaction of —
   * 72.1.a the debts and liabilities of the Association; and
   * 72.1.b the costs, charges and expenses of winding up or cancelling the incorporation of the Association but does not include books relating to the management of the Association.
-* 72.2 On the cancellation of the incorporation or the winding up of the Association, its surplus property must be distributed as determined by special resolution by reference to the persons mentioned in section 24(1) of the Act.
+* 72.2 If the organisation is wound up or its endorsement as a deductible gift recipient is revoked (whichever occurs first), any surplus of the following assets shall be transferred to another organisation with similar objects, which is charitable at law, to which income tax deductible gifts can be made -
+̵  * 72.2.a gifts of money or property for the principal purpose of the organisation;
+  * 72.2.b contributions made in relation to an eligible fundraising event held for the principal purpose of the organisation
+̵  * 72.2.c money received by the organisation because of such gifts and contributions
+* 72.3 If the association is wound up, after it has paid all debts and other liabilities (including the costs of winding up), any remaining assets -
+̵  * 72.3.a must not be distributed to the members or former members of the association, and
+̵  * 72.3.b subject to the requirements of Australian laws and any Australian court order, must be distributed to another organisation or other organisations, with similar purposes, which is/are charitable at law, and which is/are not carried on for the profit or personal gain of members.
 
 ### 73 Alteration of rules
 
