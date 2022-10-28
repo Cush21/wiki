@@ -106,23 +106,28 @@ The Association’s financial year will be the period of 12 months commencing on
 
 ## PART 3 – MEMBERS
 
-##           Division 1 — Membership
+## Division 1 — Membership
 
 ### 5 Applying for Membership
 
-* 5.1 Any person who is at least 18 years of age and supports the objects or purposes of the Association is eligible to apply to become a member.
-* 5.2 A person who wishes to become a member of the Association must submit an application to the Committee.
-* 5.3 The applicant must specify in the application the class of membership.
+* 5.1 Any person who supports the objects or purposes of the Association is eligible to apply to become a member.
+* 5.2 A person who wants to become a member must submit an application to the Association.
+* 5.3 The applicant must specify in the application the class of membership, if there is more than one, to which the application relates.
+* 5.4 An individual who has not reached the age of 18 years is not eligible to apply for a class of membership that confers full voting rights.
 
 ### 6 Dealing with Membership Applications
 
-* 6.1 The committee must consider each application for membership of the Association and decide whether to accept or reject the application.
+* 6.1 The committee must consider each application for membership of the Association.
 * 6.2 The committee may delay its consideration of an application if the committee considers that any matter relating to the application needs to be clarified by the applicant or that the applicant needs to provide further information in support of the application.
 * 6.3 The committee must not accept an application unless the applicant —
   * 6.3.a is eligible under rule 5.1; and
   * 6.3.b has applied under rule 5.2.
-* 6.4 The committee must notify the applicant of the committee’s decision to reject an application as soon as practicable after making the decision.
-* 6.5 If the committee rejects the application, the committee is not required to give the applicant its reasons for doing so.
+* 6.4 The committee must notify the applicant of the committee’s decision to accept or reject an application as soon as practicable after making the decision.
+* 6.5 (clause deleted)
+* 6.6 If the committee determines the Association’s membership capacity has been reached, it may close membership to new applicants.
+* 6.7 An application for membership will be deemed to be accepted by the committee unless —
+  * 6.7.a the applicant is not eligible under rule 5; or
+  * 6.7.b the committee has closed the membership due to capacity being reached.
 
 ### 7 Becoming a member
 
