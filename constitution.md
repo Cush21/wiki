@@ -77,7 +77,11 @@ In these rules, unless the contrary intention appears —
 
 ### 2 Purpose/Objects
 
-The Purpose of the Association is to encourage and facilitate creative use of technology. The objects of the Association are to:
+The dominant purpose of the Association is to advance mental health and prevent or relieve social isolation.
+
+The Association pursues this purpose by encouraging and facilitating creative use of technology at the Association's physical premises, where the Association supports individuals to undertake activities, or work on projects, in the company of others.
+
+The objects of the Association, which fulfil its purpose, are to:
 
 * promote the creative use of technology;
 * establish, maintain, and equip a shared work space for its members;
