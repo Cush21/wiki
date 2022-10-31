@@ -408,12 +408,6 @@ The treasurer has the following duties —
 
 ## Division 3 — Election of committee members and tenure of office
 
-### XX Terms Used
-
-In this Division —
-
-* **written notice** explicitly includes direct messages sent via an online communication platform administered by the Association in addition to other forms of written notice.
-
 ### 32 How members become Committee members
 
 A member becomes a committee member if the member —
@@ -425,11 +419,14 @@ A member becomes a committee member if the member —
 
 * 33.1 At least 21 days before an annual general meeting, the secretary must send written notice to all the members —
   * 33.1.a calling for nominations for election to the committee; and
-  * 33.1.b stating the date by which nominations must be received by the secretary to comply with rule 33.2
-* 33.2 A member who wishes to be considered for election to the committee at the annual general meeting must nominate for election by sending written notice of the nomination to the secretary at least 7 days before the annual general meeting.
-* 33.3 The written notice must include a statement by another member in support of the nomination.
-* 33.4 A member may nominate to be a committee member.
-* 33.5 A member whose nomination does not comply with this rule is not eligible for election to the committee unless the member is nominated under rule 34.2.
+  * 33.1.b stating the date by which nominations must be received by the secretary to comply with rules 33.2 and 33.3.
+* 33.2 A member who wishes to be considered for election to the committee at the annual general meeting must nominate for election by notifying the secretary at least 7 days before the annual general meeting.
+* 33.3 Each nomination must be supported by a second member. The second member must notify the secretary of their support for the nomination at least 7 days before the annual general meeting.
+* 33.4 Notices to the secretary for the purposes of rules 33.2 and 33.3 must be either -
+  * 33.4.a A written notice; or
+  * 33.4.b A direct message sent to the secretary using an online communication platform administered by the Association.
+* 33.5 (deleted)
+* 33.6 A member whose nomination does not comply with this rule is not eligible for election to the committee unless the member is nominated under rule 34.2.
 
 ### 34 Election of ordinary committee members
 
