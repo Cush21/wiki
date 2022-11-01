@@ -1,6 +1,13 @@
 ---
-title: "Operators List"
+title: Operators List
+description: 
+published: true
+date: 2022-10-25T10:11:54.227Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:58:09.446Z
 ---
+
 # Operators List
 
 | Operators                                | LG500 "Little" | KH7050 "Middle" | LC1290 "Big" | Currency confirmed           |
@@ -8,7 +15,7 @@ title: "Operators List"
 | Alastair Waddell                         | Yes            | No              | No           |                              |
 | DougB                                    | Yes            | No              | Yes          |                              |
 | Jeremy Randall                           | Yes            | No              | Yes          |                              |
-| [Jason Kongchouy](/user/jason_kongchouy) | Yes            | No              | Yes          |                              |
+| Jason Kongchouy                          | Yes            | No              | Yes          |                              |
 | Hugh Frazer                              | Yes            | No              | Yes          |                              |
 | Stuart McDonald                          | Yes            | Yes             | Yes          |                              |
 | Gerard Biles                             | Yes            | No              | No           |                              |

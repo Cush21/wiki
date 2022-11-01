@@ -2,8 +2,8 @@
 title: Constitution
 description:
 published: true
-date: 2022-10-20T10:46:09.286Z
-tags:
+date: 2022-10-27T12:48:35.985Z
+tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:46:18.038Z
 ---
@@ -106,7 +106,7 @@ The Association’s financial year will be the period of 12 months commencing on
 
 ## PART 3 – MEMBERS
 
-##           Division 1 — Membership
+## Division 1 — Membership
 
 ### 5 Applying for Membership
 

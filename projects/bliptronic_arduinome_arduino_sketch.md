@@ -1,6 +1,13 @@
 ---
-title: "What is this?"
+title: Bliptronic Arduinome sketch
+description: 
+published: true
+date: 2022-10-25T10:09:10.259Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:48:18.069Z
 ---
+
 ## What is this?
 
 This is an [Arduino](http://www.arduino.cc/) sketch (program) for the [Bliptronic Arduinome](/projects/bliptronic_arduinome) project!

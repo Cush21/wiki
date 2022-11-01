@@ -1,9 +1,18 @@
 ---
-title: "Agilent 6632B Bench Power Supply"
+title: Agilent 6632B Bench Power Supply
+description: 
+published: true
+date: 2022-10-26T14:53:38.767Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:56:21.603Z
 ---
+
 # Agilent 6632B Bench Power Supply
 
-\*\* Specifications \*\*
+![prod-838596-01.webp](/prod-838596-01.webp)
+
+## Specifications
 
 -   Output voltage: 0—20 V DC
 -   Output current: 0-5A
@@ -13,11 +22,16 @@ title: "Agilent 6632B Bench Power Supply"
 -   Voltmeter accuracy: 0.07% + 15mV
 -   Ammeter accuracy: 0.18% + 9mA
 
-For detailed specifications see <http://literature.cdn.keysight.com/litweb/pdf/5990-9303EN.pdf>
+## Manuals
 
-For a detailed user manual see <http://literature.cdn.keysight.com/litweb/pdf/5962-8196.pdf?id=1000000442-1:epsg:man>
 
-\*\* Setting up and using \*\*
+For detailed specifications see [5990-9303.pdf](/5990-9303.pdf)
+
+For a User's Guide see [5962-8196.pdf](/5962-8196.pdf)
+
+For a Service Manual see [5957-6365.pdf](/5957-6365.pdf)
+
+## Basic Operating Instructions
 
 1.  Apply power
 2.  Press VOLTAGE
