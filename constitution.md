@@ -107,22 +107,27 @@ The Association’s financial year will be the period of 12 months commencing on
 
 * 5.1 Any person who supports the objects or purposes of the Association is eligible to apply to become a member.
 * 5.2 A person who wants to become a member must submit an application to the Association.
-* 5.3 The applicant must specify in the application the class of membership, if there is more than one, to which the application relates.
-* 5.4 An individual who has not reached the age of 18 years is not eligible to apply for a class of membership that confers full voting rights.
+* 5.3 The applicant must specify in the application the class of membership, if there is more than one class of membership, to which the application relates.
+* 5.4 The applicant must meet the eligibility criteria, defined in the by laws, for the class of membership they are applying for.
+* 5.5 An individual who has not reached the age of 18 years is not eligible to apply for a class of membership that confers full voting rights.
 
 ### 6 Dealing with Membership Applications
 
-* 6.1 The committee must consider each application for membership of the Association.
+* 6.1 The committee must consider each application for membership of the Association and decide whether to accept or reject the application.
 * 6.2 The committee may delay its consideration of an application if the committee considers that any matter relating to the application needs to be clarified by the applicant or that the applicant needs to provide further information in support of the application.
 * 6.3 The committee must not accept an application unless the applicant —
   * 6.3.a is eligible under rule 5.1; and
-  * 6.3.b has applied under rule 5.2.
-* 6.4 The committee must notify the applicant of the committee’s decision to accept or reject an application as soon as practicable after making the decision.
-* 6.5 (clause deleted)
-* 6.6 If the committee determines the Association’s membership capacity has been reached, it may close membership to new applicants.
-* 6.7 An application for membership will be deemed to be accepted by the committee unless —
-  * 6.7.a the applicant is not eligible under rule 5; or
-  * 6.7.b the committee has closed the membership due to capacity being reached.
+  * 6.3.b has applied under rule 5.2; and
+  * 6.3.c is eligible for the class of membership they have applied for under rules 5.4 and 5.5.
+* 6.4 The committee may only reject applications for the following reasons -
+  * 6.4.a the committee cannot accept the application because of rule 6.3; or
+  * 6.4.b the committee determines that the Association's overall membership capacity has been reached; or
+  * 6.4.c the committee determines that the Association's membership capacity for a particular class of membership has been reached; or
+  * 6.4.d the applicant has previously been expelled from the Association under rule 16; or
+  * 6.4.e the applicant has previously ceased to be a member under rule 12.5; or
+  * 6.4.f the applicant has acted detrimentally to the interests of the Association.
+* 6.5 The committee must notify the applicant of the committee’s decision to accept or reject the application as soon as practicable after making the decision.
+* 6.6 If the committee rejects the application, the committee is not required to give the applicant its reasons for doing so.
 
 ### 7 Becoming a member
 
